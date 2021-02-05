@@ -1,4 +1,4 @@
-# Herd-Immunity-Predictor
+# NYC Herd Immunity Predictor
 ---
 - Predicts when NYC might reach herd immunity during the COVID-19 pandemic. 
 - Cleaned and manipulated data using panads and numpy. 
@@ -34,8 +34,15 @@
 - Optimized 'n_estimators' and 'max_features' on Random Forest Regressor using GridSearchCV.
 - Obtainted an R^2 score of .26 on the Ridge Regressor. The low score can be attributed to the sparse data available, however when graphed appears to be a better fit than the Random Forest Regressor.
 - Obtainted an R^2 score of .84. While significantly higher than the Ridge Regressor score, the Random Forest is clearly overfitting. 
+
 ![Image](RidgeRegressor.png)
+
 ![Image](RandomForrest.png)
+
+
+## Final Prediction 
+---
+
 
 
 

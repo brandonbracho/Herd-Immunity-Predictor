@@ -7,9 +7,9 @@
 
 ## Code and Resources Used
 ---
-**Python Version:** 3.7
-**Packages:** sklearn, matplotlib, pandas, numpy, seaborn 
-**Data Source:** https://www1.nyc.gov/site/doh/covid/covid-19-data-vaccines.page
+- **Python Version:** 3.7
+- **Packages:** sklearn, matplotlib, pandas, numpy, seaborn 
+- **Data Source:** https://www1.nyc.gov/site/doh/covid/covid-19-data-vaccines.page
 
 ## Assumptions
 ---
@@ -23,5 +23,6 @@
 - Removed duplicates, NaNs and columns deemed irrelevant. 
 - Created day of week feature in interger format as vaccinations tend to peak during the middle of the week and taper off towards the end.
 - Created daily vaccine count feature. 
+![Image](Herd-Immunity-Predictor/blob/main/DayOfWeek%20Mean.png?raw=true)
 
 

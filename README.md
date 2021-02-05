@@ -23,7 +23,8 @@
 - Removed duplicates, NaNs and columns deemed irrelevant. 
 - Created day of week feature in interger format as vaccinations tend to peak during the middle of the week and taper off towards the end.
 - Created daily vaccine count feature. 
-![Image](DataFrame.png)  ![Image](DayOfWeek Mean.png)
+![Image](DataFrame.png)  
+![Image](DayOfWeek Mean.png)
 
 
 

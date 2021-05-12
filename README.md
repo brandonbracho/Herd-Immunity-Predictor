@@ -1,5 +1,6 @@
 # NYC Herd Immunity Predictor
 ---
+## Overview
 - Predicts when NYC will reach herd immunity during the COVID-19 pandemic. 
 - Cleaned and manipulated data using pandas and numpy. 
 - Engineered features such as day of week in interger format to provide a better model fit. 
